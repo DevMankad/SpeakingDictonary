@@ -1,0 +1,2 @@
+# SpeakingDictonary
+Python Project
